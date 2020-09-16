@@ -1,0 +1,2 @@
+rootProject.name='Ex67_GoogleMap'
+include ':app'
